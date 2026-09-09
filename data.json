@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "schoolName": "SENIOR CHIEF ADANO GIRLS DAY SENIOR SCHOOL",
+    "locationConfigured": false,
+    "latitude": null,
+    "longitude": null,
+    "radius": 500,
+    "lateAfter": "08:00",
+    "expectedOut": "16:00",
+    "autoClockOutHours": 11,
+    "locationConfiguredBy": "",
+    "locationConfiguredAt": null
+  },
+  "nextUserId": 4,
+  "nextApplicationId": 1,
+  "nextAttendanceId": 1,
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Demo Teacher",
+      "staffNo": "T001",
+      "username": "teacher",
+      "password": "teacher123",
+      "role": "teacher",
+      "department": "",
+      "subjects": "",
+      "classTeacher": "NO",
+      "status": "active",
+      "photo": ""
+    },
+    {
+      "id": 2,
+      "fullName": "System Administrator",
+      "staffNo": "A001",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "department": "Administration",
+      "subjects": "",
+      "classTeacher": "NO",
+      "status": "active",
+      "photo": ""
+    },
+    {
+      "id": 3,
+      "fullName": "School Principal",
+      "staffNo": "P001",
+      "username": "principal",
+      "password": "principal123",
+      "role": "principal",
+      "department": "Administration",
+      "subjects": "",
+      "classTeacher": "NO",
+      "status": "active",
+      "photo": ""
+    }
+  ],
+  "applications": [],
+  "attendance": [],
+  "audit": []
+}
