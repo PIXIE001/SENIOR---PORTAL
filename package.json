@@ -1,0 +1,10 @@
+{
+  "name": "sag-attendance-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SENIOR CHIEF ADANO DAY SECONDARY SCHOOL Teachers Daily Attendance Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
